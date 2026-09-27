@@ -47,7 +47,10 @@ El proyecto ofrece un panel de gestión sencillo y adaptado a dispositivos móvi
 -  **[Interfaz intuitiva]** diseñada para usarse cómodamente desde un teléfono
 ----------------------------------------------------------------------------------------- 
 
+USAR ESPRESIFF CON LA VERSION QUE USE O FIJARSE SI NO DA PROBLEMAS CON UNA MAS NUEVA.
+PARA CARGARLO AL ESP32 QUE TENGAS. lo que pasa es que es mas facil con espresiff.
 
+-----------------------------------------------------------------------------------------
 
 
 <p align="center">
