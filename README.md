@@ -39,14 +39,6 @@ El proyecto ofrece un panel de gestión sencillo y adaptado a dispositivos móvi
 
 mgmtadmin
 -------------------------------------------------------------------------
-<p align="center">
-  <img src="assets_readme/interface.jpeg" alt="ESP32 Management interface" width="360">
-</p>
-
-<p align="center">
-  <em>Example of the ESP32 Management web interface</em>
-</p>
------------------------------------------------------------------------------------------ 
 [CARACTERISTICAS]
 
 -  **[Gestión inalámbrica]** a través de una interfaz web local
