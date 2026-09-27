@@ -31,12 +31,9 @@ El flasheo fue hecho en **[ESPRESSIF ESP-IDF v5.5.5]**
 
 El proyecto ofrece un panel de gestión sencillo y adaptado a dispositivos móviles al que se puede acceder desde la red local del ESP32.
 -------------------------------------------------------------------------
-**La red local se llama:** 
+**La red local se llama:** ManagementAP 
 
-"ManagementAP" 
-
-**su contraseña es:** 
-mgmtadmin
+**su contraseña es:** mgmtadmin
 
 -------------------------------------------------------------------------
 [CARACTERISTICAS]
