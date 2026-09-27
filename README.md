@@ -36,8 +36,8 @@ El proyecto ofrece un panel de gestión sencillo y adaptado a dispositivos móvi
 "ManagementAP" 
 
 **su contraseña es:** 
-
 mgmtadmin
+
 -------------------------------------------------------------------------
 [CARACTERISTICAS]
 
